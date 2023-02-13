@@ -40,7 +40,7 @@ public class Sorter {
         }
     }
 
-    void sort(int [] s){
-        insertionSort(s);
+    void sort(int[] s) {
+        selectionSort(s);
     }
 }
